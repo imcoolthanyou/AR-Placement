@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AR Placement App</string>
+    <string name="start_ar_drill">Start AR Drill</string>
+    <string name="content_desc_drill_image">Image of the selected drill</string>
+
+    <string name="drill_1_description">This is the description for Drill 1.</string>
+    <string name="drill_1_tips">Tips: Remember to wear safety glasses for Drill 1.</string>
+    <string name="ar_instructions">Tap on ground to place drill marker</string>
+</resources>
